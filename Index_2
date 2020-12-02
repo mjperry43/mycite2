@@ -1,0 +1,32 @@
+<html>
+
+<head>
+  <title>Molly Made Design Promise</title>
+</head>
+<style>
+
+div {
+background-image:url('blackcowprint.png');
+}
+
+h1 {
+  color: black;
+  font-family: Balsamiq Sans;
+  font-size: 100%;
+}
+p {
+  color: black;
+  font-family: Balsamiq Sans;
+  font-size: 70%;
+  border: 2px solid pink;
+  padding: 45px;
+}
+pinkheart.PNG
+{z-index: 100;
+position: fixed;
+top: }
+</style>
+
+<body>
+  <p>I solemnly swear to make things funky, spunky and phresh. I will create with the aim of originality with the preservation of tradition and an appreciation for the classics. Although I will work as best I can to suit the client’s wishes, I will try my best to preserve the style that is signaturely my own. I will never feel shame for the design I enjoy, my inspirations, and the art that I love. When I see another artist succeeding, I will cheer them on. When I see another artist who might need a little pick me up, I will encourage them. To be a designer is to fully participate and become a member of the community.</p>
+</body>
